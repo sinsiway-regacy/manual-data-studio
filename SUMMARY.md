@@ -13,4 +13,6 @@
   * [조직/사용자 관리](data-studio-v1.0/organization-user-management/README.md)
     * [조직 관리](data-studio-v1.0/organization-user-management/organization-management.md)
     * [사용자 관리](data-studio-v1.0/organization-user-management/user-management.md)
+  * [설정](data-studio-v1.0/setting/README.md)
+    * [Untitled](data-studio-v1.0/setting/untitled.md)
 
