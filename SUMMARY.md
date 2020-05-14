@@ -10,7 +10,7 @@
     * [사용 신청](data-studio-v1.0/login/user-application.md)
     * [신청 상태](data-studio-v1.0/login/application-status.md)
     * [아이디/비밀번호 찾기](data-studio-v1.0/login/find-id-or-password.md)
-  * [사용자 관리](data-studio-v1.0/user-management/README.md)
-    * [조직 관리](data-studio-v1.0/user-management/organization-management.md)
-    * [사용자 관리](data-studio-v1.0/user-management/user-management.md)
+  * [조직/사용자 관리](data-studio-v1.0/organization-user-management/README.md)
+    * [조직 관리](data-studio-v1.0/organization-user-management/organization-management.md)
+    * [사용자 관리](data-studio-v1.0/organization-user-management/user-management.md)
 
