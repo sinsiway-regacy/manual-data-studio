@@ -4,7 +4,7 @@ description: Petra Data Studio 메인 페이지인 로그인 화면에 대한 �
 
 # 로그인
 
-![Petra Data Studio Login Page](../../.gitbook/assets/image.png)
+![Petra Data Studio Login Page](../../.gitbook/assets/image%20%281%29.png)
 
  Petra Data Studio 페이지에 접속하면 제일 먼저 일반 로그인 화면을 볼 수 있습니다. 
 
