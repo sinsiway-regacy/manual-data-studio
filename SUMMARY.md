@@ -13,9 +13,11 @@
   * [조직/사용자 관리](data-studio-v1.0/organization-user-management/README.md)
     * [조직 관리](data-studio-v1.0/organization-user-management/organization-management.md)
     * [사용자 관리](data-studio-v1.0/organization-user-management/user-management.md)
+  * [데이터베이스 접속](data-studio-v1.0/undefined.md)
   * [설정](data-studio-v1.0/setting/README.md)
     * [세션 타임아웃 설정](data-studio-v1.0/setting/session-timeout.md)
     * [대량 조회 설정](data-studio-v1.0/setting/number-of-data-inquiry-lines.md)
     * [테마 및 글자 크기](data-studio-v1.0/setting/theme-and-font-size.md)
     * [Favorites SQL](data-studio-v1.0/setting/favorites-sql.md)
+  * [문서 작업용 임시 아이콘 모음](data-studio-v1.0/undefined-1.md)
 

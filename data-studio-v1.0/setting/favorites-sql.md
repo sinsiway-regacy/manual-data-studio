@@ -4,7 +4,7 @@
 
  자주 사용되는 SQL을 등록 / 삭제 / 재사용 할 수 있습니다. 
 
-##  Favorites SQL 등
+##  Favorites SQL 등록 
 
  화면의 플러스\(![](https://lh6.googleusercontent.com/HLljySW2v6MIczSEuJNkcQlFJ2cOc-Fmv3UnP75_emHs5ppMgRVYQoy-r9CXYmzKdFpO2PI61fbhtTBu7j9ndAVtv76x8vi7pBfTexL-FXQvZU3no-Ty2bSRBZnOfTCGgyfiS8E8SRQ)\) 아이콘을 클릭하면 다음과 같은 Favorites SQL 등록 화면이 나옵니다. 
 
