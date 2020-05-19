@@ -50,6 +50,12 @@
 
  사용자에 의해 등록 된 DBMS 목록을 확인할 수 있습니다. 메뉴 옆의 플러스\(![](https://lh4.googleusercontent.com/mSEqfiKf01iiv5-iDfDis-dWqL9t-jQEnLO7PB2Z5TlBgacy7CuRv_qveVmId2RFHYNaXs4Dt-FTaQ6RYjK1Ett3IbYygRSwfkkYRhUuJHVi8wY7kJgu3sZgvyoPJq6T0bXOhqEpDRI)\) 아이콘을 통해 신규 DBMS를 추가할 수 있습니다. 자세한 사항은 [데이터베이스 생성](create-database.md) 페이지를 확인하시기 바랍니다. 
 
+ 접속 가능한 DBMS 목록에서 등록 된 DBMS 카드에 마우스 오버 시 다음과 같이 데이터베이스로 접속해 SQL Tool로 진입할 수 있습니다. 
+
+ 
+
+![&#xB9C8;&#xC6B0;&#xC2A4; &#xC624;&#xBC84;&#xB97C; &#xD1B5;&#xD55C; &#xB370;&#xC774;&#xD130;&#xBCA0;&#xC774;&#xC2A4; &#xC811;&#xC18D;](../../.gitbook/assets/image%20%289%29.png)
+
 
 
 ## Groyp by

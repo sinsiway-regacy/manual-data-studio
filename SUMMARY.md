@@ -15,6 +15,7 @@
     * [사용자 관리](data-studio-v1.0/organization-user-management/user-management.md)
   * [데이터베이스 접속](data-studio-v1.0/undefined/README.md)
     * [데이터베이스 생성](data-studio-v1.0/undefined/create-database.md)
+  * [SQL Editor](data-studio-v1.0/sql-editor.md)
   * [설정](data-studio-v1.0/setting/README.md)
     * [세션 타임아웃 설정](data-studio-v1.0/setting/session-timeout.md)
     * [대량 조회 설정](data-studio-v1.0/setting/number-of-data-inquiry-lines.md)
