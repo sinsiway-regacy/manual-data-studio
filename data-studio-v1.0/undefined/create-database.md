@@ -38,7 +38,7 @@
 
 
 
-##  JDBC Driver 설
+##  JDBC Driver 설정  
 
 ![](../../.gitbook/assets/dbms-jdbc-driver-.png)
 
